@@ -1,0 +1,89 @@
+{
+  "journal": {
+    "nomJournal": "Jump Édition",
+    "phraseAccroche": "Plongez dans l’univers explosif du Shonen Jump",
+    "texteAppelAction": "Abonnez-vous pour suivre l’actualité des mangas et des héros de demain",
+    "articlePrincipal": {
+      "titre": "One Piece : L’épopée sans fin du pirate le plus célèbre",
+      "description": "Depuis plus de 25 ans, One Piece captive des millions de lecteurs avec son aventure épique et ses personnages inoubliables.",
+      "date": "20 Mai 2025",
+      "theme": "Séries phares",
+      "image": "https://upload.wikimedia.org/wikipedia/en/6/65/One_Piece_Logo.svg"
+    },
+    "articles": [
+      {
+        "titre": "My Hero Academia : la nouvelle génération de super-héros",
+        "date": "15 Avril 2025",
+        "theme": "Nouveautés",
+        "image": "https://upload.wikimedia.org/wikipedia/en/4/4a/My_Hero_Academia_logo.png"
+      },
+      {
+        "titre": "Jujutsu Kaisen : entre magie noire et combats intenses",
+        "date": "10 Mars 2025",
+        "theme": "Techniques & pouvoirs",
+        "image": "https://upload.wikimedia.org/wikipedia/en/0/0f/Jujutsu_Kaisen_Logo.svg"
+      },
+      {
+        "titre": "Les débats autour de la fin de Naruto",
+        "date": "25 Février 2025",
+        "theme": "Débats & analyses",
+        "image": "https://upload.wikimedia.org/wikipedia/en/9/94/Naruto_Uzumaki.png"
+      },
+      {
+        "titre": "Collaboration entre mangakas : un phénomène croissant",
+        "date": "10 Janvier 2025",
+        "theme": "Création & partenariats",
+        "image": "https://upload.wikimedia.org/wikipedia/en/8/8a/Eiichiro_Oda_2015.jpg"
+      },
+      {
+        "titre": "L’éthique dans la narration des mangas shonen",
+        "date": "5 Décembre 2024",
+        "theme": "Culture & valeurs",
+        "image": "https://upload.wikimedia.org/wikipedia/en/3/33/Shonen_Jump_logo.svg"
+      }
+    ],
+    "themes": [
+      {
+        "nom": "Séries phares",
+        "description": "Focus sur les séries incontournables et leurs univers fascinants."
+      },
+      {
+        "nom": "Nouveautés",
+        "description": "Les dernières sorties et les tendances émergentes dans le Shonen Jump."
+      },
+      {
+        "nom": "Techniques & pouvoirs",
+        "description": "Exploration des styles de combat, pouvoirs spéciaux et innovations graphiques."
+      },
+      {
+        "nom": "Débats & analyses",
+        "description": "Discussions sur les intrigues, fins de séries et théories de fans."
+      },
+      {
+        "nom": "Création & partenariats",
+        "description": "Les coulisses de la création et les collaborations entre mangakas et studios."
+      },
+      {
+        "nom": "Culture & valeurs",
+        "description": "Les messages, valeurs et influences culturelles véhiculés par les mangas."
+      }
+    ],
+    "auteurs": [
+      {
+        "prenom": "Claire",
+        "typeExperience": "Critique manga",
+        "presentation": "Je décortique les histoires et styles des séries Shonen Jump pour mieux comprendre leur succès."
+      },
+      {
+        "prenom": "Thomas",
+        "typeExperience": "Historien du manga",
+        "presentation": "Je m'intéresse à l'évolution du shonen et son influence sur la culture pop mondiale."
+      },
+      {
+        "prenom": "Elena",
+        "typeExperience": "Sociologue des médias",
+        "presentation": "J'analyse l'impact social des mangas sur les jeunes générations."
+      }
+    ]
+  }
+}
