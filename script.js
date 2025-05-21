@@ -26,8 +26,8 @@ let header = document.createElement('header');
 // Les Articles 
       let divThemeNav = document.createElement ('div');
       let listeArticle= document.createElement('a')
-      divThemeNav.id = ' ArticleNav'
-      // let navArticle = ["Article 1","Ariticle 2", "Article 3", "Article 4"]
+      divThemeNav.id = ' ThemeNav'
+     let navArticle = ["Thème 1","Thème 2", "Thème 3", "Thème 4"]
 
 // Login 
 let divAvatar = document.createElement ('div');
@@ -51,14 +51,33 @@ divLogo.appendChild(logo)
           divAvatar.appendChild(BoutonAvatar)
           divAvatar.appendChild(BoutonCompte)
 
-        
-
-
 nav.appendChild(divThemeNav)
 nav.appendChild(divAvatar)
 nav.appendChild(divLogo)
 console.log(nav);
 
+let ulNav= document.createElement('ul')
+
+let themes = data.journal.themes
+
+console.log(themes);
+
+
+// crée une boucle qui affiche chaque nom du tableau "themes" dans l'ul ( des li ) 
+themes.forEach(theme => {
+  console.log(theme.nom);
+  let liT = document.createElement('li');
+console.log(liT);
+ulNav.appendChild(liT)
+  
+
+  //let nomT = theme.nom
+  
+ 
+  
+  
+  
+});
 
 
        /// FIN DU CODE
